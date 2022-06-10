@@ -1,0 +1,62 @@
+html{
+    background:#e3e3e3;
+}
+
+body {
+    font-family:'Times New Roman', Times, serif;
+    margin: 45px;
+    padding: 45px;
+    color:black;
+    border-top: 12px solid black;
+    background: white;
+}
+    
+h1 {
+    font-size: 4em;
+    color:blue;
+    margin: 0;
+}
+
+h2 {
+    font-size: 3em;
+    color:sienna;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 2em;
+    color: darkgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+    
+p {
+    line-height: 1.8em;
+    width: 250px;
+}
+
+img {
+    float:inline-start;
+    width: 450px;
+    height: 500px;
+}
+
+#blogposts {
+    border-top: 3px dotted rgb(126, 126, 126);
+}
+    
+.blog-posts {
+    border-bottom: 3px dotted rgb(126, 126, 126);
+}
+
+article {
+    border-bottom: 2px solid black;
+}
+
+table, th, td {
+    border: 1px solid;
+    margin-bottom: 30px;
+}
+
+#subscribe-form{
+    padding: 25px;
+}
